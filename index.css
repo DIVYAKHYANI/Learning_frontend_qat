@@ -1,0 +1,28 @@
+p {
+  font-size: 30px;
+  font-variant: normal;
+  color: darkolivegreen;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#mytr {
+  font-size: 20px;
+  color: darkred;
+}
+
+.row2 {
+  background-color: darkseagreen;
+}
+.row3 {
+  background-color: indianred;
+}
+.row4 {
+  background-color: indigo;
+}
+.row5 {
+  background-color: khaki;
+}
+.mydiv {
+  font-family: sans-serif;
+  font-display: bold;
+}
